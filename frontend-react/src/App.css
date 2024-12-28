@@ -1,0 +1,11 @@
+/** @format */
+.App {
+  margin: 5px 0px;
+}
+.day-view {
+  margin: 1rem;
+}
+
+.date {
+  color: #0000ff;
+}
